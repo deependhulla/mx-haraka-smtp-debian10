@@ -29,9 +29,10 @@ mkdir -p /usr/local/share/GeoIP
 echo "Downloading GeoIP database ..can take few minutes..please wait.."
 /usr/bin/maxmind-geolite-mirror
 ###
-## for Haraka UID in spam log
-/bin/cp -pRv /usr/lib/node_modules/Haraka/contrib/Haraka.cf /etc/mail/spamassassin/
-/bin/cp -pRv /usr/lib/node_modules/Haraka/contrib/Haraka.pm /etc/mail/spamassassin/
+## for Haraka UID in spam log 
+## done via rootdir as of now
+#/bin/cp -pRv /usr/lib/node_modules/Haraka/contrib/Haraka.cf /etc/mail/spamassassin/
+#/bin/cp -pRv /usr/lib/node_modules/Haraka/contrib/Haraka.pm /etc/mail/spamassassin/
 
 
 

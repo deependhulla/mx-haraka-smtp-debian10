@@ -66,8 +66,9 @@ echo "    ServerAliveCountMax 20" >> /root/.ssh/config
 apt-get -y install pwgen ca-certificates gnupg2 wget unzip zip xfsprogs openssh-server git telnet unrar 
 apt-get -y install vim iptraf screen mc net-tools sshfs iputils-ping psmisc apt-transport-https rar multitail
 apt-get -y install xz-utils curl elinks ntfs-3g bridge-utils debconf-utils build-essential postfwd postfix-pcre
-apt-get -y install p7zip-rar arj binutils lhasa liblz4-tool lrzip lzip ncompress unar zstd sendemail
+apt-get -y install p7zip-rar arj binutils lhasa liblz4-tool lrzip lzip ncompress unar zstd sendemail rsync
 apt-get -y install spamassassin clamav-daemon clamav-freshclam rspamd redis-server dnsutils cerbot
+apt-get -y install traceroute iputils-tracepath
 
 #Disable vim automatic visual mode using mouse, useful for copy from vi edit mode
 echo "\"set mouse=a/g\"" > ~/.vimrc

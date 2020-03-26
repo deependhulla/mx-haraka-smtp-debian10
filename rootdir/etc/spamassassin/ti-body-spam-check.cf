@@ -1,0 +1,404 @@
+rawbody TI_B1 /\bMy malware gave me full access and control over your computer\b/i
+describe TI_B1 body has content [My malware gave me full access and control over your computer] which look like spam
+score TI_B1 24.1
+
+rawbody TI_B2 /\bYour computer was infected with my malware\b/i
+describe TI_B2 body has content [Your computer was infected with my malware] which look like spam
+score TI_B2 24.1
+
+rawbody TI_B3 /\bI collected all your private data and I RECORDED YOU\b/i
+describe TI_B3 body has content [I collected all your private data and I RECORDED YOU] which look like spam
+score TI_B3 24.1
+
+rawbody TI_B4 /\bAfter that I removed my malware to not leave any traces\.\b/i
+describe TI_B4 body has content [After that I removed my malware to not leave any traces\.] which look like spam
+score TI_B4 24.1
+
+rawbody TI_B5 /\bI can send the video to all your contacts\b/i
+describe TI_B5 body has content [I can send the video to all your contacts] which look like spam
+score TI_B5 24.1
+
+rawbody TI_B6 /\bI have another surprise for you\, our sex video\.\b/i
+describe TI_B6 body has content [I have another surprise for you\, our sex video\.] which look like spam
+score TI_B6 24.1
+
+rawbody TI_B7 /\bI even saved all your passwords\b/i
+describe TI_B7 body has content [I even saved all your passwords] which look like spam
+score TI_B7 24.1
+
+rawbody TI_B8 /\bI did all of this when you were in the bathroom\b/i
+describe TI_B8 body has content [I did all of this when you were in the bathroom] which look like spam
+score TI_B8 24.1
+
+rawbody TI_B9 /\bWe had sex quite a while back\, and I recorded a video of it\b/i
+describe TI_B9 body has content [We had sex quite a while back\, and I recorded a video of it] which look like spam
+score TI_B9 24.1
+
+rawbody TI_B10 /\bSo here is the non-negotiable deal\. You send me\b/i
+describe TI_B10 body has content [So here is the non-negotiable deal\. You send me] which look like spam
+score TI_B10 24.1
+
+rawbody TI_B11 /\bBaby\, the address is case-sensitive\, so it is better to copy and paste it\.\b/i
+describe TI_B11 body has content [Baby\, the address is case-sensitive\, so it is better to copy and paste it\.] which look like spam
+score TI_B11 24.1
+
+rawbody TI_B12 /\bI will leave our sex DVD to your neighbors \(I know where you reside\)\, \b/i
+describe TI_B12 body has content [I will leave our sex DVD to your neighbors \(I know where you reside\)\, ] which look like spam
+score TI_B12 24.1
+
+rawbody TI_B13 /\bFor the apparent reason\, I can not tell you my name\, but yes\, I can tell you one thing that\, it was a long\, long time back baby\.\b/i
+describe TI_B13 body has content [For the apparent reason\, I can not tell you my name\, but yes\, I can tell you one thing that\, it was a long\, long time back baby\.] which look like spam
+score TI_B13 24.1
+
+rawbody TI_B14 /\bI got access to all your accounts \(see password above\) and I can see everything on your screen\,\b/i
+describe TI_B14 body has content [I got access to all your accounts \(see password above\) and I can see everything on your screen\,] which look like spam
+score TI_B14 24.1
+
+rawbody TI_B15 /\bI am a representative of the ChaosCC hacker group\b/i
+describe TI_B15 body has content [I am a representative of the ChaosCC hacker group] which look like spam
+score TI_B15 24.1
+
+rawbody TI_B16 /\bby hacking one of the domain\.com mail servers\.\b/i
+describe TI_B16 body has content [by hacking one of the domain\.com mail servers\.] which look like spam
+score TI_B16 24.1
+
+rawbody TI_B17 /\bSumptuously\! But my program fixes this every time\. And every time I know your new password\!\b/i
+describe TI_B17 body has content [Sumptuously\! But my program fixes this every time\. And every time I know your new password\!] which look like spam
+score TI_B17 24.1
+
+rawbody TI_B18 /\bWe are also aware of your intimate adventures on the Internet\.\b/i
+describe TI_B18 body has content [We are also aware of your intimate adventures on the Internet\.] which look like spam
+score TI_B18 24.1
+
+rawbody TI_B19 /\bWe know that you adore adult sites and we know about your sexual addictions\.\b/i
+describe TI_B19 body has content [We know that you adore adult sites and we know about your sexual addictions\.] which look like spam
+score TI_B19 24.1
+
+rawbody TI_B20 /\bAt the moment\, several analogy video records have been collected\.\b/i
+describe TI_B20 body has content [At the moment\, several analogy video records have been collected\.] which look like spam
+score TI_B20 24.1
+
+rawbody TI_B21 /\ball your contacts on this email box and in your instant messengers will receive these clips and files with your correspondence\.\b/i
+describe TI_B21 body has content [all your contacts on this email box and in your instant messengers will receive these clips and files with your correspondence\.] which look like spam
+score TI_B21 24.1
+
+rawbody TI_B22 /\bIf you do not want this\, transfer\b/i
+describe TI_B22 body has content [If you do not want this\, transfer] which look like spam
+score TI_B22 24.1
+
+rawbody TI_B23 /\bAs soon as the money is in our account - your data will be immediately destroyed\b/i
+describe TI_B23 body has content [As soon as the money is in our account - your data will be immediately destroyed] which look like spam
+score TI_B23 24.1
+
+rawbody TI_B24 /\bWe believe that this whole story will teach you how to use gadgets properly\b/i
+describe TI_B24 body has content [We believe that this whole story will teach you how to use gadgets properly] which look like spam
+score TI_B24 24.1
+
+rawbody TI_B25 /\bEveryone loves adult sites\, you\'re just out of luck\b/i
+describe TI_B25 body has content [Everyone loves adult sites\, you\'re just out of luck] which look like spam
+score TI_B25 24.1
+
+rawbody TI_B26 /\bFor the future - just cover a sticker your device\b/i
+describe TI_B26 body has content [For the future - just cover a sticker your device] which look like spam
+score TI_B26 24.1
+
+rawbody TI_B27 /\bturn on your camera or microphone and you won\b/i
+describe TI_B27 body has content [turn on your camera or microphone and you won] which look like spam
+score TI_B27 24.1
+
+rawbody TI_B28 /\band a copy for your wonderful family as well\.\b/i
+describe TI_B28 body has content [and a copy for your wonderful family as well\.] which look like spam
+score TI_B28 24.1
+
+rawbody TI_B29 /\bSend our sex video to all of your contacts\b/i
+describe TI_B29 body has content [Send our sex video to all of your contacts] which look like spam
+score TI_B29 24.1
+
+rawbody TI_B30 /\bI can publish all I found on your computer everywhere\b/i
+describe TI_B30 body has content [I can publish all I found on your computer everywhere] which look like spam
+score TI_B30 24.1
+
+rawbody TI_B31 /\bAs I got access to this email account\, I will know if this email has already been read\.\b/i
+describe TI_B31 body has content [As I got access to this email account\, I will know if this email has already been read\.] which look like spam
+score TI_B31 24.1
+
+rawbody TI_B32 /\bIf you get this email multiple times\, it\'s to make sure you read it\, my mailer script has been configured like that and after payment you can ignore it\.\b/i
+describe TI_B32 body has content [If you get this email multiple times\, it\'s to make sure you read it\, my mailer script has been configured like that and after payment you can ignore it\.] which look like spam
+score TI_B32 24.1
+
+rawbody TI_B33 /\bAfter receiving the payment\, I will remove everything and you can life your live in peace like before\.\b/i
+describe TI_B33 body has content [After receiving the payment\, I will remove everything and you can life your live in peace like before\.] which look like spam
+score TI_B33 24.1
+
+rawbody TI_B34 /\bDrive-by exploit\b/i
+describe TI_B34 body has content [Drive-by exploit] which look like spam
+score TI_B34 24.1
+
+rawbody TI_B35 /\benough to just visit some website where my iframe is placed to get automatically infected\b/i
+describe TI_B35 body has content [enough to just visit some website where my iframe is placed to get automatically infected] which look like spam
+score TI_B35 24.1
+
+rawbody TI_B36 /\b4BrL51JCc9NGQ71kWhnYoDRffsDZy7m1HUU7MRU4nUMXAHNFBEJhkTZV9HdaL4gfuNBxLPc3BeMkLGaPbF5vWtANQubDtNq5uuC622w4we\b/i
+describe TI_B36 body has content [4BrL51JCc9NGQ71kWhnYoDRffsDZy7m1HUU7MRU4nUMXAHNFBEJhkTZV9HdaL4gfuNBxLPc3BeMkLGaPbF5vWtANQubDtNq5uuC622w4we] which look like spam
+score TI_B36 24.1
+
+rawbody TI_B37 /\bI uрlоаded thе maliciоus рrоgram оn your systеm\b/i
+describe TI_B37 body has content [I uрlоаded thе maliciоus рrоgram оn your systеm] which look like spam
+score TI_B37 24.1
+
+rawbody TI_B38 /\bсоmрrоmising еvidеnсе\b/i
+describe TI_B38 body has content [соmрrоmising еvidеnсе] which look like spam
+score TI_B38 24.1
+
+rawbody TI_B39 /\bvideоtаре with yоur masturbatiоn\b/i
+describe TI_B39 body has content [videоtаре with yоur masturbatiоn] which look like spam
+score TI_B39 24.1
+
+rawbody TI_B40 /\bBTC\(cryptоcurrеncy\)\b/i
+describe TI_B40 body has content [BTC\(cryptоcurrеncy\)] which look like spam
+score TI_B40 24.1
+
+rawbody TI_B41 /\bYou havе 24 hours after rеаding\b/i
+describe TI_B41 body has content [You havе 24 hours after rеаding] which look like spam
+score TI_B41 24.1
+
+rawbody TI_B42 /\bI installed a Trojan on your device\b/i
+describe TI_B42 body has content [I installed a Trojan on your device] which look like spam
+score TI_B42 24.1
+
+rawbody TI_B43 /\bI usually lock computers and ask for a ransom\b/i
+describe TI_B43 body has content [I usually lock computers and ask for a ransom] which look like spam
+score TI_B43 24.1
+
+rawbody TI_B44 /\bfrom your camera of yours device\b/i
+describe TI_B44 body has content [from your camera of yours device] which look like spam
+score TI_B44 24.1
+
+rawbody TI_B45 /\bDo not try to contact me\b/i
+describe TI_B45 body has content [Do not try to contact me] which look like spam
+score TI_B45 24.1
+
+rawbody TI_B46 /\bsince I sent you an email from your account\b/i
+describe TI_B46 body has content [since I sent you an email from your account] which look like spam
+score TI_B46 24.1
+
+rawbody TI_B47 /\bI give you 2 days \(48 hours\) to make a payment\b/i
+describe TI_B47 body has content [I give you 2 days \(48 hours\) to make a payment] which look like spam
+score TI_B47 24.1
+
+rawbody TI_B48 /\byou do not obstruct\, your device will be blocked\b/i
+describe TI_B48 body has content [you do not obstruct\, your device will be blocked] which look like spam
+score TI_B48 24.1
+
+rawbody TI_B49 /\bDo not enter your passwords on unsafe sites\b/i
+describe TI_B49 body has content [Do not enter your passwords on unsafe sites] which look like spam
+score TI_B49 24.1
+
+rawbody TI_B50 /\bweb page with porno\b/i
+describe TI_B50 body has content [web page with porno] which look like spam
+score TI_B50 24.1
+
+rawbody TI_B51 /\bsend dirt to all your contact\b/i
+describe TI_B51 body has content [send dirt to all your contact] which look like spam
+score TI_B51 24.1
+
+rawbody TI_B52 /\bYou can visit the police office but\b/i
+describe TI_B52 body has content [You can visit the police office but] which look like spam
+score TI_B52 24.1
+
+rawbody TI_B53 /\bnobody can not track my location\b/i
+describe TI_B53 body has content [nobody can not track my location] which look like spam
+score TI_B53 24.1
+
+rawbody TI_B54 /\bIf you need 48 hours just Open the calculator\b/i
+describe TI_B54 body has content [If you need 48 hours just Open the calculator] which look like spam
+score TI_B54 24.1
+
+rawbody TI_B55 /\bbitcoin\. This is address for payment\b/i
+describe TI_B55 body has content [bitcoin\. This is address for payment] which look like spam
+score TI_B55 24.1
+
+rawbody TI_B56 /\bI will erase the compromising video records\b/i
+describe TI_B56 body has content [I will erase the compromising video records] which look like spam
+score TI_B56 24.1
+
+rawbody TI_B57 /\bsend dirt to all your contacts\b/i
+describe TI_B57 body has content [send dirt to all your contacts] which look like spam
+score TI_B57 24.1
+
+rawbody TI_B58 /\bYour life can be ruined\b/i
+describe TI_B58 body has content [Your life can be ruined] which look like spam
+score TI_B58 24.1
+
+rawbody TI_B59 /\bBTC Address\:\b/i
+describe TI_B59 body has content [BTC Address\:] which look like spam
+score TI_B59 24.1
+
+rawbody TI_B60 /\byou’ve got a good taste haha\b/i
+describe TI_B60 body has content [you’ve got a good taste haha] which look like spam
+score TI_B60 24.1
+
+rawbody TI_B61 /\bobtained all of your contacts\b/i
+describe TI_B61 body has content [obtained all of your contacts] which look like spam
+score TI_B61 24.1
+
+rawbody TI_B62 /\byou visited this site to have fun\b/i
+describe TI_B62 body has content [you visited this site to have fun] which look like spam
+score TI_B62 24.1
+
+rawbody TI_B63 /\bMy virus grabbеd аll your pеrsonal info\b/i
+describe TI_B63 body has content [My virus grabbеd аll your pеrsonal info] which look like spam
+score TI_B63 24.1
+
+rawbody TI_B64 /\bnobody can not track my location even for 9 months\b/i
+describe TI_B64 body has content [nobody can not track my location even for 9 months] which look like spam
+score TI_B64 24.1
+
+rawbody TI_B65 /\bBTC address\b/i
+describe TI_B65 body has content [BTC address] which look like spam
+score TI_B65 24.1
+
+rawbody TI_B66 /\buрlоаded thе maliciоus рrоgram оn your systеm\b/i
+describe TI_B66 body has content [uрlоаded thе maliciоus рrоgram оn your systеm] which look like spam
+score TI_B66 24.1
+
+rawbody TI_B67 /\bvideоtаре with yоur masturbatiоn\b/i
+describe TI_B67 body has content [videоtаре with yоur masturbatiоn] which look like spam
+score TI_B67 24.1
+
+rawbody TI_B68 /\badjustеd virus оn а роrn web sitе\b/i
+describe TI_B68 body has content [adjustеd virus оn а роrn web sitе] which look like spam
+score TI_B68 24.1
+
+rawbody TI_B69 /\bWhеn I gеt trаnsfеr I will destroy the videotaрe еvеrmorе\b/i
+describe TI_B69 body has content [Whеn I gеt trаnsfеr I will destroy the videotaрe еvеrmorе] which look like spam
+score TI_B69 24.1
+
+rawbody TI_B70 /\bI will sеnd thе taрe tо all your\b/i
+describe TI_B70 body has content [I will sеnd thе taрe tо all your] which look like spam
+score TI_B70 24.1
+
+rawbody TI_B71 /\bрrоvide you my Btс numbеr\b/i
+describe TI_B71 body has content [рrоvide you my Btс numbеr] which look like spam
+score TI_B71 24.1
+
+rawbody TI_B72 /\bThis is addrеss fоr рaymеnt\:\b/i
+describe TI_B72 body has content [This is addrеss fоr рaymеnt\:] which look like spam
+score TI_B72 24.1
+
+rawbody TI_B73 /\bEURO in bitсoin\b/i
+describe TI_B73 body has content [EURO in bitсoin] which look like spam
+score TI_B73 24.1
+
+rawbody TI_B74 /\bYou can visit the рolicе stаtion but nоbоdy сan hеlp you\b/i
+describe TI_B74 body has content [You can visit the рolicе stаtion but nоbоdy сan hеlp you] which look like spam
+score TI_B74 24.1
+
+rawbody TI_B75 /\bcan nоt trаck my locаtion еvеn\b/i
+describe TI_B75 body has content [can nоt trаck my locаtion еvеn] which look like spam
+score TI_B75 24.1
+
+rawbody TI_B76 /\bYour lifе саn bе ruined\b/i
+describe TI_B76 body has content [Your lifе саn bе ruined] which look like spam
+score TI_B76 24.1
+
+rawbody TI_B77 /\bMy virus captured all your personal data\b/i
+describe TI_B77 body has content [My virus captured all your personal data] which look like spam
+score TI_B77 24.1
+
+rawbody TI_B78 /\bexpect payment from you for my silence\b/i
+describe TI_B78 body has content [expect payment from you for my silence] which look like spam
+score TI_B78 24.1
+
+rawbody TI_B79 /\bmember of an international hacker group\b/i
+describe TI_B79 body has content [member of an international hacker group] which look like spam
+score TI_B79 24.1
+
+rawbody TI_B80 /\bNow I have access to all your accounts\b/i
+describe TI_B80 body has content [Now I have access to all your accounts] which look like spam
+score TI_B80 24.1
+
+rawbody TI_B81 /\bWe are aware of your little and big secrets\b/i
+describe TI_B81 body has content [We are aware of your little and big secrets] which look like spam
+score TI_B81 24.1
+
+rawbody TI_B82 /\bYour tastes are so weird\b/i
+describe TI_B82 body has content [Your tastes are so weird] which look like spam
+score TI_B82 24.1
+
+rawbody TI_B83 /\bTransfer \$800 to our Bitcoin wallet\b/i
+describe TI_B83 body has content [Transfer \$800 to our Bitcoin wallet] which look like spam
+score TI_B83 24.1
+
+rawbody TI_B84 /\bYour data will be erased once the money are transferred\b/i
+describe TI_B84 body has content [Your data will be erased once the money are transferred] which look like spam
+score TI_B84 24.1
+
+rawbody TI_B85 /\bWe hope this case will teach you to keep secrets\b/i
+describe TI_B85 body has content [We hope this case will teach you to keep secrets] which look like spam
+score TI_B85 24.1
+
+rawbody TI_B86 /\bI am a spyware software developer\.\b/i
+describe TI_B86 body has content [I am a spyware software developer\.] which look like spam
+score TI_B86 24.1
+
+rawbody TI_B87 /\bYour account has been hacked by me in the summer of 2018\.\b/i
+describe TI_B87 body has content [Your account has been hacked by me in the summer of 2018\.] which look like spam
+score TI_B87 24.1
+
+rawbody TI_B88 /\bI know what you like hard funs\b/i
+describe TI_B88 body has content [I know what you like hard funs] which look like spam
+score TI_B88 24.1
+
+rawbody TI_B89 /\bOh\, yes \.\. I\'m know your secret life\, which you are hiding from everyone\.\b/i
+describe TI_B89 body has content [Oh\, yes \.\. I\'m know your secret life\, which you are hiding from everyone\.] which look like spam
+score TI_B89 24.1
+
+rawbody TI_B90 /\bOh my God\, what are your like\.\.\. I saw THIS \.\.\. Oh\, you dirty naughty person\b/i
+describe TI_B90 body has content [Oh my God\, what are your like\.\.\. I saw THIS \.\.\. Oh\, you dirty naughty person] which look like spam
+score TI_B90 24.1
+
+rawbody TI_B91 /\binvoices you paid with the last wire\b/i
+describe TI_B91 body has content [invoices you paid with the last wire] which look like spam
+score TI_B91 24.1
+
+rawbody TI_B92 /\b will erase the compromising video records\b/i
+describe TI_B92 body has content [ will erase the compromising video records] which look like spam
+score TI_B92 24.1
+
+rawbody TI_B93 /\bI\'ll send dirt to all your contacts\b/i
+describe TI_B93 body has content [I\'ll send dirt to all your contacts] which look like spam
+score TI_B93 24.1
+
+rawbody TI_B94 /\bYour life can be ruined\b/i
+describe TI_B94 body has content [Your life can be ruined] which look like spam
+score TI_B94 24.1
+
+rawbody TI_B95 /\bnobody can not track my location even for 9 months\b/i
+describe TI_B95 body has content [nobody can not track my location even for 9 months] which look like spam
+score TI_B95 24.1
+
+rawbody TI_B96 /\bMy virus captured all your personal data\b/i
+describe TI_B96 body has content [My virus captured all your personal data] which look like spam
+score TI_B96 24.1
+
+rawbody TI_B97 /\bI am a spyware software developer\.\b/i
+describe TI_B97 body has content [I am a spyware software developer\.] which look like spam
+score TI_B97 24.1
+
+rawbody TI_B98 /\bYour account has been hacked by me in the summer of 2018\.\b/i
+describe TI_B98 body has content [Your account has been hacked by me in the summer of 2018\.] which look like spam
+score TI_B98 24.1
+
+rawbody TI_B99 /\bI know what you like hard funs\b/i
+describe TI_B99 body has content [I know what you like hard funs] which look like spam
+score TI_B99 24.1
+
+rawbody TI_B100 /\bOh\, yes \.\. I\'m know your secret life\, which you are hiding from everyone\.\b/i
+describe TI_B100 body has content [Oh\, yes \.\. I\'m know your secret life\, which you are hiding from everyone\.] which look like spam
+score TI_B100 24.1
+
+rawbody TI_B101 /\bOh my God\, what are your like\.\.\. I saw THIS \.\.\. Oh\, you dirty naughty person\b/i
+describe TI_B101 body has content [Oh my God\, what are your like\.\.\. I saw THIS \.\.\. Oh\, you dirty naughty person] which look like spam
+score TI_B101 24.1
+

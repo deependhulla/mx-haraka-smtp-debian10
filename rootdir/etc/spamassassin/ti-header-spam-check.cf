@@ -1,0 +1,404 @@
+header TI_H1 ALL =~/My malware gave me full access and control over your computer/i
+describe TI_H1 header has content [My malware gave me full access and control over your computer] which look like spam
+score TI_H1 24.1
+
+header TI_H2 ALL =~/Your computer was infected with my malware/i
+describe TI_H2 header has content [Your computer was infected with my malware] which look like spam
+score TI_H2 24.1
+
+header TI_H3 ALL =~/I collected all your private data and I RECORDED YOU/i
+describe TI_H3 header has content [I collected all your private data and I RECORDED YOU] which look like spam
+score TI_H3 24.1
+
+header TI_H4 ALL =~/After that I removed my malware to not leave any traces\./i
+describe TI_H4 header has content [After that I removed my malware to not leave any traces\.] which look like spam
+score TI_H4 24.1
+
+header TI_H5 ALL =~/I can send the video to all your contacts/i
+describe TI_H5 header has content [I can send the video to all your contacts] which look like spam
+score TI_H5 24.1
+
+header TI_H6 ALL =~/I have another surprise for you\, our sex video\./i
+describe TI_H6 header has content [I have another surprise for you\, our sex video\.] which look like spam
+score TI_H6 24.1
+
+header TI_H7 ALL =~/I even saved all your passwords/i
+describe TI_H7 header has content [I even saved all your passwords] which look like spam
+score TI_H7 24.1
+
+header TI_H8 ALL =~/I did all of this when you were in the bathroom/i
+describe TI_H8 header has content [I did all of this when you were in the bathroom] which look like spam
+score TI_H8 24.1
+
+header TI_H9 ALL =~/We had sex quite a while back\, and I recorded a video of it/i
+describe TI_H9 header has content [We had sex quite a while back\, and I recorded a video of it] which look like spam
+score TI_H9 24.1
+
+header TI_H10 ALL =~/So here is the non-negotiable deal\. You send me/i
+describe TI_H10 header has content [So here is the non-negotiable deal\. You send me] which look like spam
+score TI_H10 24.1
+
+header TI_H11 ALL =~/Baby\, the address is case-sensitive\, so it is better to copy and paste it\./i
+describe TI_H11 header has content [Baby\, the address is case-sensitive\, so it is better to copy and paste it\.] which look like spam
+score TI_H11 24.1
+
+header TI_H12 ALL =~/I will leave our sex DVD to your neighbors \(I know where you reside\)\, /i
+describe TI_H12 header has content [I will leave our sex DVD to your neighbors \(I know where you reside\)\, ] which look like spam
+score TI_H12 24.1
+
+header TI_H13 ALL =~/For the apparent reason\, I can not tell you my name\, but yes\, I can tell you one thing that\, it was a long\, long time back baby\./i
+describe TI_H13 header has content [For the apparent reason\, I can not tell you my name\, but yes\, I can tell you one thing that\, it was a long\, long time back baby\.] which look like spam
+score TI_H13 24.1
+
+header TI_H14 ALL =~/I got access to all your accounts \(see password above\) and I can see everything on your screen\,/i
+describe TI_H14 header has content [I got access to all your accounts \(see password above\) and I can see everything on your screen\,] which look like spam
+score TI_H14 24.1
+
+header TI_H15 ALL =~/I am a representative of the ChaosCC hacker group/i
+describe TI_H15 header has content [I am a representative of the ChaosCC hacker group] which look like spam
+score TI_H15 24.1
+
+header TI_H16 ALL =~/by hacking one of the domain\.com mail servers\./i
+describe TI_H16 header has content [by hacking one of the domain\.com mail servers\.] which look like spam
+score TI_H16 24.1
+
+header TI_H17 ALL =~/Sumptuously\! But my program fixes this every time\. And every time I know your new password\!/i
+describe TI_H17 header has content [Sumptuously\! But my program fixes this every time\. And every time I know your new password\!] which look like spam
+score TI_H17 24.1
+
+header TI_H18 ALL =~/We are also aware of your intimate adventures on the Internet\./i
+describe TI_H18 header has content [We are also aware of your intimate adventures on the Internet\.] which look like spam
+score TI_H18 24.1
+
+header TI_H19 ALL =~/We know that you adore adult sites and we know about your sexual addictions\./i
+describe TI_H19 header has content [We know that you adore adult sites and we know about your sexual addictions\.] which look like spam
+score TI_H19 24.1
+
+header TI_H20 ALL =~/At the moment\, several analogy video records have been collected\./i
+describe TI_H20 header has content [At the moment\, several analogy video records have been collected\.] which look like spam
+score TI_H20 24.1
+
+header TI_H21 ALL =~/all your contacts on this email box and in your instant messengers will receive these clips and files with your correspondence\./i
+describe TI_H21 header has content [all your contacts on this email box and in your instant messengers will receive these clips and files with your correspondence\.] which look like spam
+score TI_H21 24.1
+
+header TI_H22 ALL =~/If you do not want this\, transfer/i
+describe TI_H22 header has content [If you do not want this\, transfer] which look like spam
+score TI_H22 24.1
+
+header TI_H23 ALL =~/As soon as the money is in our account - your data will be immediately destroyed/i
+describe TI_H23 header has content [As soon as the money is in our account - your data will be immediately destroyed] which look like spam
+score TI_H23 24.1
+
+header TI_H24 ALL =~/We believe that this whole story will teach you how to use gadgets properly/i
+describe TI_H24 header has content [We believe that this whole story will teach you how to use gadgets properly] which look like spam
+score TI_H24 24.1
+
+header TI_H25 ALL =~/Everyone loves adult sites\, you\'re just out of luck/i
+describe TI_H25 header has content [Everyone loves adult sites\, you\'re just out of luck] which look like spam
+score TI_H25 24.1
+
+header TI_H26 ALL =~/For the future - just cover a sticker your device/i
+describe TI_H26 header has content [For the future - just cover a sticker your device] which look like spam
+score TI_H26 24.1
+
+header TI_H27 ALL =~/turn on your camera or microphone and you won/i
+describe TI_H27 header has content [turn on your camera or microphone and you won] which look like spam
+score TI_H27 24.1
+
+header TI_H28 ALL =~/and a copy for your wonderful family as well\./i
+describe TI_H28 header has content [and a copy for your wonderful family as well\.] which look like spam
+score TI_H28 24.1
+
+header TI_H29 ALL =~/Send our sex video to all of your contacts/i
+describe TI_H29 header has content [Send our sex video to all of your contacts] which look like spam
+score TI_H29 24.1
+
+header TI_H30 ALL =~/I can publish all I found on your computer everywhere/i
+describe TI_H30 header has content [I can publish all I found on your computer everywhere] which look like spam
+score TI_H30 24.1
+
+header TI_H31 ALL =~/As I got access to this email account\, I will know if this email has already been read\./i
+describe TI_H31 header has content [As I got access to this email account\, I will know if this email has already been read\.] which look like spam
+score TI_H31 24.1
+
+header TI_H32 ALL =~/If you get this email multiple times\, it\'s to make sure you read it\, my mailer script has been configured like that and after payment you can ignore it\./i
+describe TI_H32 header has content [If you get this email multiple times\, it\'s to make sure you read it\, my mailer script has been configured like that and after payment you can ignore it\.] which look like spam
+score TI_H32 24.1
+
+header TI_H33 ALL =~/After receiving the payment\, I will remove everything and you can life your live in peace like before\./i
+describe TI_H33 header has content [After receiving the payment\, I will remove everything and you can life your live in peace like before\.] which look like spam
+score TI_H33 24.1
+
+header TI_H34 ALL =~/Drive-by exploit/i
+describe TI_H34 header has content [Drive-by exploit] which look like spam
+score TI_H34 24.1
+
+header TI_H35 ALL =~/enough to just visit some website where my iframe is placed to get automatically infected/i
+describe TI_H35 header has content [enough to just visit some website where my iframe is placed to get automatically infected] which look like spam
+score TI_H35 24.1
+
+header TI_H36 ALL =~/4BrL51JCc9NGQ71kWhnYoDRffsDZy7m1HUU7MRU4nUMXAHNFBEJhkTZV9HdaL4gfuNBxLPc3BeMkLGaPbF5vWtANQubDtNq5uuC622w4we/i
+describe TI_H36 header has content [4BrL51JCc9NGQ71kWhnYoDRffsDZy7m1HUU7MRU4nUMXAHNFBEJhkTZV9HdaL4gfuNBxLPc3BeMkLGaPbF5vWtANQubDtNq5uuC622w4we] which look like spam
+score TI_H36 24.1
+
+header TI_H37 ALL =~/I uрlоаded thе maliciоus рrоgram оn your systеm/i
+describe TI_H37 header has content [I uрlоаded thе maliciоus рrоgram оn your systеm] which look like spam
+score TI_H37 24.1
+
+header TI_H38 ALL =~/соmрrоmising еvidеnсе/i
+describe TI_H38 header has content [соmрrоmising еvidеnсе] which look like spam
+score TI_H38 24.1
+
+header TI_H39 ALL =~/videоtаре with yоur masturbatiоn/i
+describe TI_H39 header has content [videоtаре with yоur masturbatiоn] which look like spam
+score TI_H39 24.1
+
+header TI_H40 ALL =~/BTC\(cryptоcurrеncy\)/i
+describe TI_H40 header has content [BTC\(cryptоcurrеncy\)] which look like spam
+score TI_H40 24.1
+
+header TI_H41 ALL =~/You havе 24 hours after rеаding/i
+describe TI_H41 header has content [You havе 24 hours after rеаding] which look like spam
+score TI_H41 24.1
+
+header TI_H42 ALL =~/I installed a Trojan on your device/i
+describe TI_H42 header has content [I installed a Trojan on your device] which look like spam
+score TI_H42 24.1
+
+header TI_H43 ALL =~/I usually lock computers and ask for a ransom/i
+describe TI_H43 header has content [I usually lock computers and ask for a ransom] which look like spam
+score TI_H43 24.1
+
+header TI_H44 ALL =~/from your camera of yours device/i
+describe TI_H44 header has content [from your camera of yours device] which look like spam
+score TI_H44 24.1
+
+header TI_H45 ALL =~/Do not try to contact me/i
+describe TI_H45 header has content [Do not try to contact me] which look like spam
+score TI_H45 24.1
+
+header TI_H46 ALL =~/since I sent you an email from your account/i
+describe TI_H46 header has content [since I sent you an email from your account] which look like spam
+score TI_H46 24.1
+
+header TI_H47 ALL =~/I give you 2 days \(48 hours\) to make a payment/i
+describe TI_H47 header has content [I give you 2 days \(48 hours\) to make a payment] which look like spam
+score TI_H47 24.1
+
+header TI_H48 ALL =~/you do not obstruct\, your device will be blocked/i
+describe TI_H48 header has content [you do not obstruct\, your device will be blocked] which look like spam
+score TI_H48 24.1
+
+header TI_H49 ALL =~/Do not enter your passwords on unsafe sites/i
+describe TI_H49 header has content [Do not enter your passwords on unsafe sites] which look like spam
+score TI_H49 24.1
+
+header TI_H50 ALL =~/web page with porno/i
+describe TI_H50 header has content [web page with porno] which look like spam
+score TI_H50 24.1
+
+header TI_H51 ALL =~/send dirt to all your contact/i
+describe TI_H51 header has content [send dirt to all your contact] which look like spam
+score TI_H51 24.1
+
+header TI_H52 ALL =~/You can visit the police office but/i
+describe TI_H52 header has content [You can visit the police office but] which look like spam
+score TI_H52 24.1
+
+header TI_H53 ALL =~/nobody can not track my location/i
+describe TI_H53 header has content [nobody can not track my location] which look like spam
+score TI_H53 24.1
+
+header TI_H54 ALL =~/If you need 48 hours just Open the calculator/i
+describe TI_H54 header has content [If you need 48 hours just Open the calculator] which look like spam
+score TI_H54 24.1
+
+header TI_H55 ALL =~/bitcoin\. This is address for payment/i
+describe TI_H55 header has content [bitcoin\. This is address for payment] which look like spam
+score TI_H55 24.1
+
+header TI_H56 ALL =~/I will erase the compromising video records/i
+describe TI_H56 header has content [I will erase the compromising video records] which look like spam
+score TI_H56 24.1
+
+header TI_H57 ALL =~/send dirt to all your contacts/i
+describe TI_H57 header has content [send dirt to all your contacts] which look like spam
+score TI_H57 24.1
+
+header TI_H58 ALL =~/Your life can be ruined/i
+describe TI_H58 header has content [Your life can be ruined] which look like spam
+score TI_H58 24.1
+
+header TI_H59 ALL =~/BTC Address\:/i
+describe TI_H59 header has content [BTC Address\:] which look like spam
+score TI_H59 24.1
+
+header TI_H60 ALL =~/you’ve got a good taste haha/i
+describe TI_H60 header has content [you’ve got a good taste haha] which look like spam
+score TI_H60 24.1
+
+header TI_H61 ALL =~/obtained all of your contacts/i
+describe TI_H61 header has content [obtained all of your contacts] which look like spam
+score TI_H61 24.1
+
+header TI_H62 ALL =~/you visited this site to have fun/i
+describe TI_H62 header has content [you visited this site to have fun] which look like spam
+score TI_H62 24.1
+
+header TI_H63 ALL =~/My virus grabbеd аll your pеrsonal info/i
+describe TI_H63 header has content [My virus grabbеd аll your pеrsonal info] which look like spam
+score TI_H63 24.1
+
+header TI_H64 ALL =~/nobody can not track my location even for 9 months/i
+describe TI_H64 header has content [nobody can not track my location even for 9 months] which look like spam
+score TI_H64 24.1
+
+header TI_H65 ALL =~/BTC address/i
+describe TI_H65 header has content [BTC address] which look like spam
+score TI_H65 24.1
+
+header TI_H66 ALL =~/uрlоаded thе maliciоus рrоgram оn your systеm/i
+describe TI_H66 header has content [uрlоаded thе maliciоus рrоgram оn your systеm] which look like spam
+score TI_H66 24.1
+
+header TI_H67 ALL =~/videоtаре with yоur masturbatiоn/i
+describe TI_H67 header has content [videоtаре with yоur masturbatiоn] which look like spam
+score TI_H67 24.1
+
+header TI_H68 ALL =~/adjustеd virus оn а роrn web sitе/i
+describe TI_H68 header has content [adjustеd virus оn а роrn web sitе] which look like spam
+score TI_H68 24.1
+
+header TI_H69 ALL =~/Whеn I gеt trаnsfеr I will destroy the videotaрe еvеrmorе/i
+describe TI_H69 header has content [Whеn I gеt trаnsfеr I will destroy the videotaрe еvеrmorе] which look like spam
+score TI_H69 24.1
+
+header TI_H70 ALL =~/I will sеnd thе taрe tо all your/i
+describe TI_H70 header has content [I will sеnd thе taрe tо all your] which look like spam
+score TI_H70 24.1
+
+header TI_H71 ALL =~/рrоvide you my Btс numbеr/i
+describe TI_H71 header has content [рrоvide you my Btс numbеr] which look like spam
+score TI_H71 24.1
+
+header TI_H72 ALL =~/This is addrеss fоr рaymеnt\:/i
+describe TI_H72 header has content [This is addrеss fоr рaymеnt\:] which look like spam
+score TI_H72 24.1
+
+header TI_H73 ALL =~/EURO in bitсoin/i
+describe TI_H73 header has content [EURO in bitсoin] which look like spam
+score TI_H73 24.1
+
+header TI_H74 ALL =~/You can visit the рolicе stаtion but nоbоdy сan hеlp you/i
+describe TI_H74 header has content [You can visit the рolicе stаtion but nоbоdy сan hеlp you] which look like spam
+score TI_H74 24.1
+
+header TI_H75 ALL =~/can nоt trаck my locаtion еvеn/i
+describe TI_H75 header has content [can nоt trаck my locаtion еvеn] which look like spam
+score TI_H75 24.1
+
+header TI_H76 ALL =~/Your lifе саn bе ruined/i
+describe TI_H76 header has content [Your lifе саn bе ruined] which look like spam
+score TI_H76 24.1
+
+header TI_H77 ALL =~/My virus captured all your personal data/i
+describe TI_H77 header has content [My virus captured all your personal data] which look like spam
+score TI_H77 24.1
+
+header TI_H78 ALL =~/expect payment from you for my silence/i
+describe TI_H78 header has content [expect payment from you for my silence] which look like spam
+score TI_H78 24.1
+
+header TI_H79 ALL =~/member of an international hacker group/i
+describe TI_H79 header has content [member of an international hacker group] which look like spam
+score TI_H79 24.1
+
+header TI_H80 ALL =~/Now I have access to all your accounts/i
+describe TI_H80 header has content [Now I have access to all your accounts] which look like spam
+score TI_H80 24.1
+
+header TI_H81 ALL =~/We are aware of your little and big secrets/i
+describe TI_H81 header has content [We are aware of your little and big secrets] which look like spam
+score TI_H81 24.1
+
+header TI_H82 ALL =~/Your tastes are so weird/i
+describe TI_H82 header has content [Your tastes are so weird] which look like spam
+score TI_H82 24.1
+
+header TI_H83 ALL =~/Transfer \$800 to our Bitcoin wallet/i
+describe TI_H83 header has content [Transfer \$800 to our Bitcoin wallet] which look like spam
+score TI_H83 24.1
+
+header TI_H84 ALL =~/Your data will be erased once the money are transferred/i
+describe TI_H84 header has content [Your data will be erased once the money are transferred] which look like spam
+score TI_H84 24.1
+
+header TI_H85 ALL =~/We hope this case will teach you to keep secrets/i
+describe TI_H85 header has content [We hope this case will teach you to keep secrets] which look like spam
+score TI_H85 24.1
+
+header TI_H86 ALL =~/I am a spyware software developer\./i
+describe TI_H86 header has content [I am a spyware software developer\.] which look like spam
+score TI_H86 24.1
+
+header TI_H87 ALL =~/Your account has been hacked by me in the summer of 2018\./i
+describe TI_H87 header has content [Your account has been hacked by me in the summer of 2018\.] which look like spam
+score TI_H87 24.1
+
+header TI_H88 ALL =~/I know what you like hard funs/i
+describe TI_H88 header has content [I know what you like hard funs] which look like spam
+score TI_H88 24.1
+
+header TI_H89 ALL =~/Oh\, yes \.\. I\'m know your secret life\, which you are hiding from everyone\./i
+describe TI_H89 header has content [Oh\, yes \.\. I\'m know your secret life\, which you are hiding from everyone\.] which look like spam
+score TI_H89 24.1
+
+header TI_H90 ALL =~/Oh my God\, what are your like\.\.\. I saw THIS \.\.\. Oh\, you dirty naughty person/i
+describe TI_H90 header has content [Oh my God\, what are your like\.\.\. I saw THIS \.\.\. Oh\, you dirty naughty person] which look like spam
+score TI_H90 24.1
+
+header TI_H91 ALL =~/invoices you paid with the last wire/i
+describe TI_H91 header has content [invoices you paid with the last wire] which look like spam
+score TI_H91 24.1
+
+header TI_H92 ALL =~/ will erase the compromising video records/i
+describe TI_H92 header has content [ will erase the compromising video records] which look like spam
+score TI_H92 24.1
+
+header TI_H93 ALL =~/I\'ll send dirt to all your contacts/i
+describe TI_H93 header has content [I\'ll send dirt to all your contacts] which look like spam
+score TI_H93 24.1
+
+header TI_H94 ALL =~/Your life can be ruined/i
+describe TI_H94 header has content [Your life can be ruined] which look like spam
+score TI_H94 24.1
+
+header TI_H95 ALL =~/nobody can not track my location even for 9 months/i
+describe TI_H95 header has content [nobody can not track my location even for 9 months] which look like spam
+score TI_H95 24.1
+
+header TI_H96 ALL =~/My virus captured all your personal data/i
+describe TI_H96 header has content [My virus captured all your personal data] which look like spam
+score TI_H96 24.1
+
+header TI_H97 ALL =~/I am a spyware software developer\./i
+describe TI_H97 header has content [I am a spyware software developer\.] which look like spam
+score TI_H97 24.1
+
+header TI_H98 ALL =~/Your account has been hacked by me in the summer of 2018\./i
+describe TI_H98 header has content [Your account has been hacked by me in the summer of 2018\.] which look like spam
+score TI_H98 24.1
+
+header TI_H99 ALL =~/I know what you like hard funs/i
+describe TI_H99 header has content [I know what you like hard funs] which look like spam
+score TI_H99 24.1
+
+header TI_H100 ALL =~/Oh\, yes \.\. I\'m know your secret life\, which you are hiding from everyone\./i
+describe TI_H100 header has content [Oh\, yes \.\. I\'m know your secret life\, which you are hiding from everyone\.] which look like spam
+score TI_H100 24.1
+
+header TI_H101 ALL =~/Oh my God\, what are your like\.\.\. I saw THIS \.\.\. Oh\, you dirty naughty person/i
+describe TI_H101 header has content [Oh my God\, what are your like\.\.\. I saw THIS \.\.\. Oh\, you dirty naughty person] which look like spam
+score TI_H101 24.1
+
