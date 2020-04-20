@@ -6,8 +6,8 @@ timedatectl set-ntp true
 timedatectl status
 
 ### changing timezone to Asia Kolkata
-sed -i "s/;date.timezone =/date\.timezone \= \'Asia\/Kolkata\'/" /etc/php/7.0/apache2/php.ini
-sed -i "s/;date.timezone =/date\.timezone \= \'Asia\/Kolkata\'/" /etc/php/7.0/cli/php.ini
+#sed -i "s/;date.timezone =/date\.timezone \= \'Asia\/Kolkata\'/" /etc/php/7.0/apache2/php.ini
+#sed -i "s/;date.timezone =/date\.timezone \= \'Asia\/Kolkata\'/" /etc/php/7.0/cli/php.ini
 
 
 systemctl restart  systemd-timedated systemd-timesyncd

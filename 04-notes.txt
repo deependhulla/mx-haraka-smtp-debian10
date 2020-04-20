@@ -1,0 +1,26 @@
+
+## use to fix time before reboot
+/usr/local/src/time-server-setup.sh
+
+
+Restart Server to remove apparmor checking ..like disabling selink on centos 
+## it creates problem for clamd services
+#apt-get remove apparmor
+
+/usr/local/src/restart-all-services.sh
+
+
+
+Add domain and transport in below file.
+
+
+/opt/haraka-inbound/config/host_list
+/etc/postfix/relay_domains_list
+/etc/postfix/transport_smtp_routes
+
+postmap /etc/postfix/relay_domains_list
+postmap /etc/postfix/transport_smtp_routes
+
+
+to restrt all services
+/usr/local/src/restart-all-services.sh

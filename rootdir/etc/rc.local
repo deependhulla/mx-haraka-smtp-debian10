@@ -1,0 +1,14 @@
+#!/bin/bash
+sysctl -w net.ipv6.conf.all.disable_ipv6=1
+sysctl -w net.ipv6.conf.default.disable_ipv6=1
+
+/etc/init.d/rsyslog restart
+/etc/init.d/redis-server restart
+/etc/init.d/spamassassin restart
+/etc/init.d/clamav-daemon restart
+/etc/init.d/postfix restart
+/opt/smtpstore/start.sh
+/opt/haraka-inbound/stop-inbound.sh
+/opt/haraka-inbound/start-inbound.sh
+
+exit 0

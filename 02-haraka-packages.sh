@@ -44,4 +44,5 @@ sed -i "s/smtp      inet  n       \-       y       \-       \-       smtpd/2525 
 ## copy all files
 cp -pRv rootdir/* /
 
-
+## remove apparmor as it has isse with clamd socket file
+apt-get remove apparmor
