@@ -1,12 +1,12 @@
 #!/bin/bash
 
 ## sample
-###HOSTNAME=pvedesktop.domainname.com
+###HOSTNAME=mx01.domainname.com
 ###IPADDR=192.168.1.1
 
 
-HOSTNAME=mx2.technomail.in
-IPADDR=139.59.64.239
+HOSTNAME=mx01.domainname.com
+###IPADDR=192.168.100.11
 
 hostname $HOSTNAME
 echo "$IPADDR   $HOSTNAME" >> /etc/hosts
@@ -68,7 +68,7 @@ apt-get -y install vim iptraf screen mc net-tools sshfs iputils-ping psmisc apt-
 apt-get -y install xz-utils curl elinks ntfs-3g bridge-utils debconf-utils build-essential postfwd postfix-pcre
 apt-get -y install p7zip-rar arj binutils lhasa liblz4-tool lrzip lzip ncompress unar zstd sendemail rsync
 apt-get -y install spamassassin clamav-daemon clamav-freshclam rspamd redis-server dnsutils cerbot
-apt-get -y install traceroute iputils-tracepath
+apt-get -y install traceroute iputils-tracepath sudo
 
 #Disable vim automatic visual mode using mouse, useful for copy from vi edit mode
 echo "\"set mouse=a/g\"" > ~/.vimrc
