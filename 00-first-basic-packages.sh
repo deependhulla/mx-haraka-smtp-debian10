@@ -1,16 +1,5 @@
 #!/bin/bash
 
-## sample
-###HOSTNAME=mx01.domainname.com
-###IPADDR=192.168.1.1
-
-
-HOSTNAME=mx01.domainname.com
-###IPADDR=192.168.100.11
-
-hostname $HOSTNAME
-echo "$IPADDR   $HOSTNAME" >> /etc/hosts
-echo $HOSTNAME > /etc/hostname
 
 
 
@@ -24,7 +13,7 @@ echo "deb http://security.debian.org/ buster/updates main contrib non-free" >> /
 apt-get update
 
 
-CFG_HOSTNAME_FQDN=`hostname`
+CFG_HOSTNAME_FQDN=`hostname -f`
 echo "postfix postfix/main_mailer_type select Internet Site" | debconf-set-selections
 echo "postfix postfix/mailname string $CFG_HOSTNAME_FQDN" | debconf-set-selections
 
